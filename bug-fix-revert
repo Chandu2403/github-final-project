@@ -1,1 +1,12 @@
-
+[
+  {
+    "id": 123456789,
+    "number": 1,
+    "state": "open",
+    "title": "Bug fix typo",
+    "user": {
+      "login": "Chandu2403"
+    },
+    "html_url": "https://github.com/Chandu2403/mcintro-to-git-and-github/pull/1"
+  }
+]
